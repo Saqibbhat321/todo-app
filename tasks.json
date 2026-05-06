@@ -1,7 +1,7 @@
 [
   {
     "name": "gym",
-    "done": false,
+    "done": true,
     "priority": 1,
     "due": "2025-05-06"
   },
@@ -9,6 +9,18 @@
     "name": "jiggling",
     "done": false,
     "priority": 1,
+    "due": "No due date"
+  },
+  {
+    "name": "KickBoxing",
+    "done": false,
+    "priority": 1,
+    "due": "No due date"
+  },
+  {
+    "name": "going to birthday party",
+    "done": false,
+    "priority": 3,
     "due": "No due date"
   }
 ]
